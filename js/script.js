@@ -65,4 +65,3 @@ function take_Input(event){
 }
 document.addEventListener('click',handle_clicks);
 document.addEventListener('keyup',take_Input);
-console.log(x);
